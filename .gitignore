@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+/pic/MyOscilloscope.X/nbproject/private/
+/pic/MyOscilloscope.X/build/XC16_dsPIC30F4011/
+/pic/MyOscilloscope.X/dist/XC16_dsPIC30F4011/
+/pic/MyOscilloscopeSimple.X/nbproject/private/
+/pic/MyOscilloscopeSimple.X/dist/XC16_dsPIC30F6014A/
+/pic/MyOscilloscopeSimple.X/build/XC16_dsPIC30F6014A/
+/pic/MyOscilloscopeSimple.X/build/Release/
+/pic/MyOscilloscopeSimple.X/dist/Release/
